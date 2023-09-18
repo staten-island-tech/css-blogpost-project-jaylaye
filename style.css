@@ -1,6 +1,51 @@
-.header {
+h1 {
     text-align: center;
-    background-color: rgb(188, 203, 223);
-    font-size: 30;
-    font-family:cursive;
+    font-size: 40;
+    font-family: 'Borel', cursive;
+   
+}
+
+.sushi{
+    margin-left: 40px;
+    font-size: 19px;
+    font-family: 'Architects Daughter', cursive;
+    font-weight: 700;
+
+}
+
+h2{
+    margin-left: 400px;
+    font-size: 30px;
+    font-family: 'Permanent Marker';
+    padding-top: 50;
+}
+.background{
+    background-image: url(https://i.pinimg.com/1200x/24/92/4c/24924c8c8c54c71604ca80d0cd5d7b91.jpg);
+}
+.udon{
+   margin-left: 1000px;
+  
+}
+h4{
+    margin-left: 1370px;
+    font-size: 30px;
+    font-family: 'Permanent Marker';
+    padding-top: 50;
+
+}
+#udoncaption{
+    font-family: 'Architects Daughter', cursive;
+    font-size: 19px;
+   text-align: center;
+   
+}
+.udontext{
+    margin-left: 1000px;
+    padding-top: 50;
+}
+.okonomiyaki{
+    margin-left: 40px;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 19px;
+  
 }
