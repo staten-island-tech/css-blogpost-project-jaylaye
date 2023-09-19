@@ -6,46 +6,48 @@ h1 {
 }
 
 .sushi{
-    margin-left: 40px;
+    text-align: center;
     font-size: 19px;
     font-family: 'Architects Daughter', cursive;
     font-weight: 700;
-
+    margin-top: 30px;
 }
 
 h2{
-    margin-left: 400px;
+    text-align: center;
     font-size: 30px;
     font-family: 'Permanent Marker';
-    padding-top: 50;
+    
 }
 .background{
     background-image: url(https://i.pinimg.com/1200x/24/92/4c/24924c8c8c54c71604ca80d0cd5d7b91.jpg);
 }
 .udon{
-   margin-left: 1000px;
+   text-align: center;
   
 }
 h4{
-    margin-left: 1370px;
+    text-align: center;
     font-size: 30px;
     font-family: 'Permanent Marker';
-
+   
 
 }
 #udoncaption{
     font-family: 'Architects Daughter', cursive;
     font-size: 19px;
     text-align: center;
+    margin-top: 30px;
 
 }
 .udontext{
-    margin-left: 1000px;
+    text-align: center;
+    padding-top: 20;
    
 }
 .okonomiyaki{
-    margin-left: 40px;
+    text-align: center;
     font-family: 'Architects Daughter', cursive;
     font-size: 19px;
-  
+    padding-top: 20;
 }
